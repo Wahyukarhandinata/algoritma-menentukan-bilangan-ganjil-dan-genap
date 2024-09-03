@@ -1,0 +1,5 @@
+1. *Input*: Masukkan sebuah bilangan bulat.
+2. *Proses*:
+   - Jika bilangan tersebut habis dibagi 2 (modulus 2 == 0), maka bilangan tersebut adalah *genap*.
+   - Jika tidak habis dibagi 2, maka bilangan tersebut adalah *ganjil*.
+3. *Output*: Keluarkan hasil apakah bilangan tersebut ganjil atau genap.
